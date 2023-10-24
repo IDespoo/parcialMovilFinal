@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaDeCarros</string>
+    <string name="aceptar">Accept</string>
+    <string name="digite_nombre">Put Car</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaDeCarros</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="digite_nombre">Digite nombre del carro</string>
+</resources>

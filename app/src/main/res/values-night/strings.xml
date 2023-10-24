@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceptar">Aceptar</string>
+    <string name="digite_nombre">Digite nombre del Carro</string>
+</resources>
